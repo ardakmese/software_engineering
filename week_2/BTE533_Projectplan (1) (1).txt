@@ -22,7 +22,9 @@ COVER PAGE
 	1.4 Non-functional issues - Security, performance, usability etc.
 
 2. PROJECT PLAN (25)
-	Work breakdown structure (WBS). Epics should be decomposed into smaller components. Each component should be assigned a size on a scale of 5: (T) Tiny, (S) Small, (M) Medium, (L) Large, (XL) Extra-large. (In the requirements document, user stories will be written for these components.)
+	Work breakdown structure (WBS). Epics should be decomposed into smaller components. 
+Each component should be assigned a size on a scale of 5: (T) Tiny, (S) Small, (M) Medium, (L) Large, (XL) Extra-large.
+ (In the requirements document, user stories will be written for these components.)
 
 3. ESTIMATES (10)
 	A man.week value for each WBS component should be estimated. 
